@@ -1,0 +1,69 @@
+D:\общее\Резервные копии\CourseWork5-4\CourseWork5-4\bin\Debug\CourseWork5-4.exe.config
+D:\общее\Резервные копии\CourseWork5-4\CourseWork5-4\bin\Debug\CourseWork5-4.exe
+D:\общее\Резервные копии\CourseWork5-4\CourseWork5-4\bin\Debug\CourseWork5-4.pdb
+D:\общее\Резервные копии\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4.csprojResolveAssemblyReference.cache
+D:\общее\Резервные копии\CourseWork5-4\CourseWork5-4\obj\Debug\BattleField.baml
+D:\общее\Резервные копии\CourseWork5-4\CourseWork5-4\obj\Debug\BattleField.g.cs
+D:\общее\Резервные копии\CourseWork5-4\CourseWork5-4\obj\Debug\App.g.cs
+D:\общее\Резервные копии\CourseWork5-4\CourseWork5-4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\общее\Резервные копии\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4_MarkupCompile.cache
+D:\общее\Резервные копии\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4.g.resources
+D:\общее\Резервные копии\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5_4.Properties.Resources.resources
+D:\общее\Резервные копии\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4.csproj.GenerateResource.Cache
+D:\общее\Резервные копии\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4.exe
+D:\общее\Резервные копии\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4.pdb
+d:\общее\Резервные копии\CourseWork5-4\CourseWork5-4\obj\Debug\MainWindow.baml
+d:\общее\Резервные копии\CourseWork5-4\CourseWork5-4\obj\Debug\MainWindow.g.cs
+d:\общее\Резервные копии\CourseWork5\CourseWork5-4\CourseWork5-4\bin\Debug\CourseWork5-4.exe.config
+d:\общее\Резервные копии\CourseWork5\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4.exe
+d:\общее\Резервные копии\CourseWork5\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4.pdb
+D:\общее\Резервные копии\CourseWork5\CourseWork5-4\CourseWork5-4\bin\Debug\CourseWork5-4.exe
+D:\общее\Резервные копии\CourseWork5\CourseWork5-4\CourseWork5-4\bin\Debug\CourseWork5-4.pdb
+D:\общее\Резервные копии\CourseWork5\CourseWork5-4\CourseWork5-4\bin\Debug\Newtonsoft.Json.dll
+D:\общее\Резервные копии\CourseWork5\CourseWork5-4\CourseWork5-4\bin\Debug\Newtonsoft.Json.xml
+D:\общее\Резервные копии\CourseWork5\CourseWork5-4\CourseWork5-4\obj\Debug\MainWindow.baml
+D:\общее\Резервные копии\CourseWork5\CourseWork5-4\CourseWork5-4\obj\Debug\MainWindow.g.cs
+D:\общее\Резервные копии\CourseWork5\CourseWork5-4\CourseWork5-4\obj\Debug\App.g.cs
+D:\общее\Резервные копии\CourseWork5\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4_MarkupCompile.cache
+D:\общее\Резервные копии\CourseWork5\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4.g.resources
+D:\общее\Резервные копии\CourseWork5\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5_4.Properties.Resources.resources
+D:\общее\Резервные копии\CourseWork5\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4.csproj.GenerateResource.Cache
+D:\общее\Резервные копии\CourseWork5\CourseWork5-4\CourseWork5-4\bin\Debug\BSONSerialization.dll
+D:\общее\Резервные копии\CourseWork5\CourseWork5-4\CourseWork5-4\bin\Debug\UsersDataClasses.dll
+D:\общее\Резервные копии\CourseWork5\CourseWork5-4\CourseWork5-4\bin\Debug\BSONSerialization.pdb
+D:\общее\Резервные копии\CourseWork5\CourseWork5-4\CourseWork5-4\bin\Debug\UsersDataClasses.pdb
+D:\общее\Резервные копии\CourseWork5\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4.csprojResolveAssemblyReference.cache
+D:\общее\КУРСАЧИ\CourseWork5\CourseWork5-4\CourseWork5-4\bin\Debug\CourseWork5-4.exe.config
+D:\общее\КУРСАЧИ\CourseWork5\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4.exe
+D:\общее\КУРСАЧИ\CourseWork5\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4.pdb
+D:\общее\КУРСАЧИ\CourseWork5\CourseWork5-4\CourseWork5-4\bin\Debug\CourseWork5-4.exe
+D:\общее\КУРСАЧИ\CourseWork5\CourseWork5-4\CourseWork5-4\bin\Debug\CourseWork5-4.pdb
+D:\общее\КУРСАЧИ\CourseWork5\CourseWork5-4\CourseWork5-4\bin\Debug\BSONSerialization.dll
+D:\общее\КУРСАЧИ\CourseWork5\CourseWork5-4\CourseWork5-4\bin\Debug\UsersDataClasses.dll
+D:\общее\КУРСАЧИ\CourseWork5\CourseWork5-4\CourseWork5-4\bin\Debug\BSONSerialization.pdb
+D:\общее\КУРСАЧИ\CourseWork5\CourseWork5-4\CourseWork5-4\bin\Debug\Newtonsoft.Json.xml
+D:\общее\КУРСАЧИ\CourseWork5\CourseWork5-4\CourseWork5-4\bin\Debug\UsersDataClasses.pdb
+D:\общее\КУРСАЧИ\CourseWork5\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4.csprojResolveAssemblyReference.cache
+D:\общее\КУРСАЧИ\CourseWork5\CourseWork5-4\CourseWork5-4\obj\Debug\MainWindow.baml
+D:\общее\КУРСАЧИ\CourseWork5\CourseWork5-4\CourseWork5-4\obj\Debug\MainWindow.g.cs
+D:\общее\КУРСАЧИ\CourseWork5\CourseWork5-4\CourseWork5-4\obj\Debug\App.g.cs
+D:\общее\КУРСАЧИ\CourseWork5\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4_MarkupCompile.cache
+D:\общее\КУРСАЧИ\CourseWork5\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4.g.resources
+D:\общее\КУРСАЧИ\CourseWork5\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5_4.Properties.Resources.resources
+D:\общее\КУРСАЧИ\CourseWork5\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4.csproj.GenerateResource.Cache
+D:\общее\КУРСАЧИ\CourseWork6\CourseWork5-4\CourseWork5-4\bin\Debug\CourseWork5-4.exe.config
+D:\общее\КУРСАЧИ\CourseWork6\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4.exe
+D:\общее\КУРСАЧИ\CourseWork6\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4.pdb
+D:\общее\КУРСАЧИ\CourseWork6\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4.csprojResolveAssemblyReference.cache
+D:\общее\КУРСАЧИ\CourseWork6\CourseWork5-4\CourseWork5-4\obj\Debug\MainWindow.baml
+D:\общее\КУРСАЧИ\CourseWork6\CourseWork5-4\CourseWork5-4\obj\Debug\MainWindow.g.cs
+D:\общее\КУРСАЧИ\CourseWork6\CourseWork5-4\CourseWork5-4\obj\Debug\App.g.cs
+D:\общее\КУРСАЧИ\CourseWork6\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4_MarkupCompile.cache
+D:\общее\КУРСАЧИ\CourseWork6\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4.g.resources
+D:\общее\КУРСАЧИ\CourseWork6\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5_4.Properties.Resources.resources
+D:\общее\КУРСАЧИ\CourseWork6\CourseWork5-4\CourseWork5-4\obj\Debug\CourseWork5-4.csproj.GenerateResource.Cache
+D:\общее\КУРСАЧИ\CourseWork6\CourseWork5-4\CourseWork5-4\bin\Debug\CourseWork5-4.exe
+D:\общее\КУРСАЧИ\CourseWork6\CourseWork5-4\CourseWork5-4\bin\Debug\CourseWork5-4.pdb
+D:\общее\КУРСАЧИ\CourseWork6\CourseWork5-4\CourseWork5-4\bin\Debug\BSONSerialization.pdb
+D:\общее\КУРСАЧИ\CourseWork6\CourseWork5-4\CourseWork5-4\bin\Debug\Newtonsoft.Json.xml
+D:\общее\КУРСАЧИ\CourseWork6\CourseWork5-4\CourseWork5-4\bin\Debug\UsersDataClasses.pdb

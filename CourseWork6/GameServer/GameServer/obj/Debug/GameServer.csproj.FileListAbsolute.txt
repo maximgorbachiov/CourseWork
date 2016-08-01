@@ -1,0 +1,34 @@
+D:\общее\Резервные копии\CourseWork5\GameServer\GameServer\bin\Debug\GameServer.exe.config
+D:\общее\Резервные копии\CourseWork5\GameServer\GameServer\bin\Debug\GameServer.exe
+D:\общее\Резервные копии\CourseWork5\GameServer\GameServer\bin\Debug\GameServer.pdb
+D:\общее\Резервные копии\CourseWork5\GameServer\GameServer\bin\Debug\BSONSerialization.dll
+D:\общее\Резервные копии\CourseWork5\GameServer\GameServer\bin\Debug\UsersDataClasses.dll
+D:\общее\Резервные копии\CourseWork5\GameServer\GameServer\bin\Debug\Newtonsoft.Json.dll
+D:\общее\Резервные копии\CourseWork5\GameServer\GameServer\bin\Debug\BSONSerialization.pdb
+D:\общее\Резервные копии\CourseWork5\GameServer\GameServer\bin\Debug\UsersDataClasses.pdb
+D:\общее\Резервные копии\CourseWork5\GameServer\GameServer\bin\Debug\Newtonsoft.Json.xml
+D:\общее\Резервные копии\CourseWork5\GameServer\GameServer\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+D:\общее\Резервные копии\CourseWork5\GameServer\GameServer\obj\Debug\GameServer.exe
+D:\общее\Резервные копии\CourseWork5\GameServer\GameServer\obj\Debug\GameServer.pdb
+D:\общее\КУРСАЧИ\CourseWork5\GameServer\GameServer\bin\Debug\GameServer.exe.config
+D:\общее\КУРСАЧИ\CourseWork5\GameServer\GameServer\obj\Debug\GameServer.exe
+D:\общее\КУРСАЧИ\CourseWork5\GameServer\GameServer\obj\Debug\GameServer.pdb
+D:\общее\КУРСАЧИ\CourseWork5\GameServer\GameServer\bin\Debug\GameServer.exe
+D:\общее\КУРСАЧИ\CourseWork5\GameServer\GameServer\bin\Debug\GameServer.pdb
+D:\общее\КУРСАЧИ\CourseWork5\GameServer\GameServer\bin\Debug\BSONSerialization.dll
+D:\общее\КУРСАЧИ\CourseWork5\GameServer\GameServer\bin\Debug\UsersDataClasses.dll
+D:\общее\КУРСАЧИ\CourseWork5\GameServer\GameServer\bin\Debug\Newtonsoft.Json.dll
+D:\общее\КУРСАЧИ\CourseWork5\GameServer\GameServer\bin\Debug\BSONSerialization.pdb
+D:\общее\КУРСАЧИ\CourseWork5\GameServer\GameServer\bin\Debug\UsersDataClasses.pdb
+D:\общее\КУРСАЧИ\CourseWork5\GameServer\GameServer\bin\Debug\Newtonsoft.Json.xml
+D:\общее\КУРСАЧИ\CourseWork5\GameServer\GameServer\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+D:\общее\КУРСАЧИ\CourseWork6\GameServer\GameServer\bin\Debug\GameServer.exe.config
+D:\общее\КУРСАЧИ\CourseWork6\GameServer\GameServer\obj\Debug\GameServer.exe
+D:\общее\КУРСАЧИ\CourseWork6\GameServer\GameServer\obj\Debug\GameServer.pdb
+D:\общее\КУРСАЧИ\CourseWork6\GameServer\GameServer\bin\Debug\GameServer.exe
+D:\общее\КУРСАЧИ\CourseWork6\GameServer\GameServer\bin\Debug\GameServer.pdb
+D:\общее\КУРСАЧИ\CourseWork6\GameServer\GameServer\bin\Debug\Newtonsoft.Json.dll
+D:\общее\КУРСАЧИ\CourseWork6\GameServer\GameServer\bin\Debug\BSONSerialization.pdb
+D:\общее\КУРСАЧИ\CourseWork6\GameServer\GameServer\bin\Debug\UsersDataClasses.pdb
+D:\общее\КУРСАЧИ\CourseWork6\GameServer\GameServer\bin\Debug\Newtonsoft.Json.xml
+D:\общее\КУРСАЧИ\CourseWork6\GameServer\GameServer\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
